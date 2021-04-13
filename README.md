@@ -2,7 +2,7 @@
 
 The Brooklyn Gentrification project is one of the early projects that I worked on during my school year.
 The scope of this project is to create a data science pipeline that allows users to understand a
-real world problem or phenomenon through visualizations that feeds off a realistic data source. The
+real world problem or phenomenon through visualizations that feeds off a realistic data source. The
 focus should be on analyzing real life data to make some meaningful interpretations and conclusions.
 
 ## Expectation
