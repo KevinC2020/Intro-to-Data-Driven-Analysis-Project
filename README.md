@@ -2,10 +2,11 @@
 
 The Brooklyn Gentrification project is one of the early projects that I worked on during my school year.
 The scope of this project is to create a data science pipeline that allows users to understand a
-real world problem or phenomenon through visualizations that feeds o a realistic data source. The
+real world problem or phenomenon through visualizations that feeds off a realistic data source. The
 focus should be on analyzing real life data to make some meaningful interpretations and conclusions.
 
 ## Expectation
+From the programming perspective, the project should have following components:
 * Data in a relational database. You will need to submit the database schema, as well as data ingestion scripts.
 * Python notebook as the primary implementation. This should have following components:
     - A data import component. This component should pull the data from the database into the Python environment. Note that you will need to demonstrate that you are manipulating data in the database itself (through embedded SQL) and not just pulling all the data into the notebook (no SELECT * FROM table). Bulk importing will result in loss of points.
